@@ -28,7 +28,7 @@ You may also see any lint errors in the console.
 ![Output Image](./public/images/img_2.png)
 
 
-### To Test
+### Want to Try
 
 
 https://ip-tracker-iota-sage.vercel.app/
