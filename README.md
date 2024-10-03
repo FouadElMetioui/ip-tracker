@@ -32,3 +32,13 @@ You may also see any lint errors in the console.
 
 
 https://ip-tracker-iota-sage.vercel.app/
+
+
+###  Stack Tech
+
+- React
+- React-Leaflet
+- Leaflet
+- Axios
+- Ipify API
+- Vercel
